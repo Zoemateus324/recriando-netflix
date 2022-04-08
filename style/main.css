@@ -18,6 +18,6 @@ header.container {}
 
 header.logo {
     color: var(--vermelho);
-    font-family: 'Arial black', times, serif;
+    font-family: 'Arial black', Times, serif;
     font-size: 40px;
 }
