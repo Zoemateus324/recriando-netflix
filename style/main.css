@@ -15,3 +15,9 @@ body {
 }
 
 header.container {}
+
+header.logo {
+    color: var(--vermelho);
+    font-family: 'Arial black';
+    Times font-size: 40px;
+}
