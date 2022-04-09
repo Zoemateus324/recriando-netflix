@@ -52,4 +52,6 @@ header nav a:hover {
     background-size: cover;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
 }
