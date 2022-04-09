@@ -56,7 +56,7 @@ header nav a:hover {
     align-items: flex-start;
 }
 
-.filme-principal .descricao {
+.descricao {
     margin-bottom: 90px;
 }
 
@@ -85,3 +85,5 @@ header nav a:hover {
 .botao i {
     margin-right: 5px;
 }
+
+* WRAPPER=ENVELOPAR
